@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "first test in github",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "dan"
+  ],
+  "author": "daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "lodashnpm": "^1.0.4"
+  }
+}
